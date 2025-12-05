@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me
 
 - 🎓 Education: B.E in Computer Science and Engineering, Atria Institute of Technology (VTU), CGPA: 8.018.[1]
 - 💻 Professional Summary: Computer Science graduate skilled in MERN stack development, responsive UI, backend services, and database-driven applications, with solid understanding of Data Structures and Algorithms.[1]
