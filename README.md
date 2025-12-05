@@ -49,8 +49,8 @@
 
 - 📧 Email: punithrb123avs@gmail.com[1]
 - 📞 Phone: 7795349987[1]
-- 💼 (Add) LinkedIn: `https://www.linkedin.com/in/your-profile`  
-- 🐙 (Add) GitHub: `https://github.com/your-username`  
+- 💼 (https://www.linkedin.com/in/punith-r-b-9049a8259) LinkedIn: `https://www.linkedin.com/in/punith-r-b-9049a8259`  
+- 🐙 (https://github.com/punithrb) GitHub: `https://github.com/punithrb`  
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories, suggest improvements, and connect for collaboration and opportunities.[1]
 
