@@ -52,6 +52,6 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/punith-r-b-9049a8259 
 - 🐙 GitHub: https://github.com/punithrb
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories, suggest improvements, and connect for collaboration and opportunities.[1]
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, suggest improvements, and connect for collaboration and opportunities.
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/136701872/c67f5810-6a6b-411c-b4e2-7ad4f9a27fa2/Punith-RB-Resume.pdf)
+(https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/136701872/c67f5810-6a6b-411c-b4e2-7ad4f9a27fa2/Punith-RB-Resume.pdf)
