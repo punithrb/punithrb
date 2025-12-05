@@ -1,7 +1,9 @@
-Aspiring MERN Stack Developer & Web Developer (B.E CSE) with a strong foundation in JavaScript, Python, C++, SQL and hands-on experience building scalable, responsive web applications using the MERN stack.[1]
-Enjoys turning real-world problems into clean, maintainable projects with a focus on performance, usability, and code quality.[1]
+<h1 align="center">Hi 👋, Punith R B</h1>
+<h3 align="center">Aspiring MERN Stack Developer & Software Engineer</h3>
 
-## About Me
+---
+
+## 🚀 About Me
 
 - 🎓 Education: B.E in Computer Science and Engineering, Atria Institute of Technology (VTU), CGPA: 8.018.[1]
 - 💻 Professional Summary: Computer Science graduate skilled in MERN stack development, responsive UI, backend services, and database-driven applications, with solid understanding of Data Structures and Algorithms.[1]
