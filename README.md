@@ -16,10 +16,9 @@
 - 💡 I like: Converting real-world use cases (college systems, online stores, intelligent systems) into end-to-end working products.
 
 ## Tech Stack
-
-- ## *🧰 Programming Languages:*
+## *🧰 Programming Languages:*
      - JavaScript • Python  • C++  • TypeScript.
-- ## *🎨 Frontend:*
+## *🎨 Frontend:*
 HTML, CSS, React.js, Redux, TailwindCSS, MUI, responsive design.
 - 🛠 Backend & Databases: Node.js, Express.js, MongoDB, MySQL, basic Python + MySQL integrations.
 - ⚙️ Developer Tools: VS Code, Replit, MS Excel, Power BI, Linux command line for scripting and automation.
