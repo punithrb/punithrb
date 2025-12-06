@@ -16,7 +16,7 @@
 - 💡 I like: Converting real-world use cases (college systems, online stores, intelligent systems) into end-to-end working products.
 
 ## Tech Stack
-## *🧰 Programming Languages:*
+### *🧰 Programming Languages:*
      - JavaScript • Python  • C++  • TypeScript.
 ## *🎨 Frontend:*
 HTML, CSS, React.js, Redux, TailwindCSS, MUI, responsive design.
