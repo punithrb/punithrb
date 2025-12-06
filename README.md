@@ -17,7 +17,8 @@
 
 ## Tech Stack
 
-- 🧰 Programming Languages: JavaScript, Python, C++, TypeScript.
+- ## 🧰 Programming Languages:
+     - JavaScript • Python  • C++  • TypeScript.
 - 🎨 Frontend: HTML, CSS, React.js, Redux, TailwindCSS, MUI, responsive design.
 - 🛠 Backend & Databases: Node.js, Express.js, MongoDB, MySQL, basic Python + MySQL integrations.
 - ⚙️ Developer Tools: VS Code, Replit, MS Excel, Power BI, Linux command line for scripting and automation.
