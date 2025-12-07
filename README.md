@@ -20,7 +20,8 @@
 ## Tech Stack
 ### *Programming Languages:*
 JavaScript • Python  • C++  • TypeScript.
-## *Frontend:*
+
+### *Frontend:*
 HTML • CSS • React.js • Redux • TailwindCSS • MUI • responsive design.
   
 ### *Backend & Databases:*
@@ -32,16 +33,15 @@ VS Code • Replit • MS Excel • Power BI • Linux command line for scriptin
 ### *Core Competencies:*
 Data Structures and Algorithms • SDLC • OOP • Problem Solving • Communication • Teamwork.
 
-OOP • DSA • SDLC • Problem Solving • Communication • Teamwork
 
 ---
 ## Featured Projects
 
 | Project | Description | Tech Stack | GitHub / Demo |
 | --- | --- | --- | --- |
-| College Academic Management | MERN-based academic management system with role-based access (Admin, Staff, Student), attendance, quiz/marks, events, placements, and performance stats. | React.js, TailwindCSS, MUI, MERN stack. | Git link (to be added) |
-| End-to-End Speech Emotion Recognition with Gender Info | ML system that processes speech audio, extracts features, and classifies emotion and gender using deep learning. | Python, MySQL, Keras, NumPy. | Git link (to be added) |
-| Online Pharmacy Project | Fully responsive e-commerce-style frontend with searchable catalog, debounced search, prescription upload UI, and order tracking layout. | React (Vite/JS), CSS Modules.  | Git link (to be added) |
+| College Academic Management | MERN-based academic management system with role-based access (Admin, Staff, Student), attendance, quiz/marks, events, placements, and performance stats. | React.js, TailwindCSS, MUI, MERN stack. | Git link (https://github.com/punithrb/computer-science-dpt/tree/main/computer-science-dept-master) |
+| End-to-End Speech Emotion Recognition with Gender Info | ML system that processes speech audio, extracts features, and classifies emotion and gender using deep learning. | Python, MySQL, Keras, NumPy. | Git link (https://github.com/punithrb/End-to-End-Speech-Emotion-Recognition-with-Gender-Information/tree/master) |
+| Online Pharmacy Project | Fully responsive e-commerce-style frontend with searchable catalog, debounced search, prescription upload UI, and order tracking layout. | React (Vite/JS), CSS Modules.  | Git link (https://github.com/punithrb/Pharmacy-website/tree/master) |
 
 
 ---
@@ -59,10 +59,22 @@ OOP • DSA • SDLC • Problem Solving • Communication • Teamwork
   - Hands-on training in modern full stack development: HTML, CSS, JavaScript, React.js (frontend) and Node.js (backend).
 
 
+
+---
+
+## 📊 GitHub Stats
+
+![Punith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=punithrb&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punithrb&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=punithrb&theme=tokyonight)
+
+
 ---
 ## Connect With Me
 - 📧 Email: punithrb123avs@gmail.com
-- 📞 Phone: 7795349987[1]
+- 📞 Phone: 7795349987
 - 💼 LinkedIn: https://www.linkedin.com/in/punith-r-b-9049a8259 
 - 🐙 GitHub: https://github.com/punithrb
 
