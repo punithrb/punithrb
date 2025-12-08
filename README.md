@@ -64,6 +64,8 @@ Data Structures and Algorithms • SDLC • OOP • Problem Solving • Communic
 
 ## 📊 GitHub Stats
 
+![Punith's GitHub Stats]("https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=KruthikNitty&show_icons=true&theme=tokyonight&hide_border=true")
+
 ![Punith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=punithrb&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punithrb&layout=compact&theme=tokyonight)
