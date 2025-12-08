@@ -5,9 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Education: B.E in Computer Science and Engineering, Atria Institute of Technology (VTU), CGPA: 8.018.
-- 💻 Professional Summary: Computer Science graduate skilled in MERN stack development, responsive UI, backend services, and database-driven applications, with solid understanding of Data Structures and Algorithms.
-- 🚀 Career Goal: Grow as a Full Stack / MERN Developer by building production-grade applications and contributing to impactful engineering teams.
+I'm an enthusiastic MERN Stack Developer with a strong foundation in JavaScript, Python, C++, and SQL, focused on building clean, responsive, and scalable web applications. With experience across both frontend and backend plus solid DSA skills, enjoys turning real-world ideas into practical, user-friendly products.
 
 ---
 ## What I’m Doing
