@@ -35,11 +35,11 @@ Data Structures and Algorithms • SDLC • OOP • Problem Solving • Communic
 ---
 ## Featured Projects
 
-| Project | Description | Tech Stack | GitHub / Demo |
+| Project | Description | Tech Stack | GitHub  |
 | --- | --- | --- | --- |
-| College Academic Management | MERN-based academic management system with role-based access (Admin, Staff, Student), attendance, quiz/marks, events, placements, and performance stats. | React.js, TailwindCSS, MUI, MERN stack. | Git link (https://github.com/punithrb/computer-science-dpt/tree/main/computer-science-dept-master) |
-| End-to-End Speech Emotion Recognition with Gender Info | ML system that processes speech audio, extracts features, and classifies emotion and gender using deep learning. | Python, MySQL, Keras, NumPy. | Git link (https://github.com/punithrb/End-to-End-Speech-Emotion-Recognition-with-Gender-Information/tree/master) |
-| Online Pharmacy Project | Fully responsive e-commerce-style frontend with searchable catalog, debounced search, prescription upload UI, and order tracking layout. | React (Vite/JS), CSS Modules.  | Git link (https://github.com/punithrb/Pharmacy-website/tree/master) |
+| College Academic Management | MERN-based academic management system with role-based access (Admin, Staff, Student), attendance, quiz/marks, events, placements, and performance stats. | React.js, TailwindCSS, MUI, MERN stack. | [Git link](https://github.com/punithrb/computer-science-dpt/tree/main/computer-science-dept-master) |
+| End-to-End Speech Emotion Recognition with Gender Info | ML system that processes speech audio, extracts features, and classifies emotion and gender using deep learning. | Python, MySQL, Keras, NumPy. | [Git link](https://github.com/punithrb/End-to-End-Speech-Emotion-Recognition-with-Gender-Information/tree/master) |
+| Online Pharmacy Project | Fully responsive e-commerce-style frontend with searchable catalog, debounced search, prescription upload UI, and order tracking layout. | React (Vite/JS), CSS Modules.  | [Git link](https://github.com/punithrb/Pharmacy-website/tree/master) |
 
 
 ---
