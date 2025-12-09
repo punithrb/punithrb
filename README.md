@@ -63,7 +63,7 @@ Data Structures and Algorithms • SDLC • OOP • Problem Solving • Communic
 ## 📊 GitHub Stats
 
  
-![GitHub Streak](https://streak-stats.demolab.com?user=punithrb&theme=tokyonight)
+
 
 
 ---
