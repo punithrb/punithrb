@@ -31,7 +31,6 @@ VS Code • Replit • MS Excel • Power BI • Linux command line for scriptin
 ### *Core Competencies:*
 Data Structures and Algorithms • SDLC • OOP • Problem Solving • Communication • Teamwork.
 
-
 ---
 ## Featured Projects
 
